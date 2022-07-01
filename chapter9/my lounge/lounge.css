@@ -1,0 +1,53 @@
+body
+{ 
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(248, 248, 212);
+    line-height: 1.6em;
+    
+}
+
+h1,h2
+{
+    color:aquamarine;
+}
+
+h1
+{
+    font-size: 150%;
+}
+
+h2
+{
+    font-size: 130%;
+}
+
+#guarantee
+{
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(167, 223, 223);
+    padding: 25px;
+    padding-left: 80px;
+    margin: 30px;
+    margin-right: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.9em;
+    font-style: italic;
+    color: #444444;
+    background-image: url(../images/background.gif);    
+    background-repeat: no-repeat;
+    background-position: top left;
+    border-style:dashed;
+    border-top-style: solid;
+    border-top-width: 6px;
+    border-top-color: red;
+    border-radius: 15PX;
+    border-color: rgb(248, 248, 212);
+}
+/* #footer
+{
+    background-color: blue;
+    color: red;
+
+}*/
